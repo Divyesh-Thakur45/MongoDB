@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "mongoose": "^8.7.3",
+    "nodemon": "^3.1.7"
+  },
+  "name": "mongoose-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "server" : "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
